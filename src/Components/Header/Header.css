@@ -1,0 +1,40 @@
+.header_parent {
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.btn {
+    border-radius: 5px;
+    background-color: blue;
+    width: 10%;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.content_flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.featureflex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.people_flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.line_flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

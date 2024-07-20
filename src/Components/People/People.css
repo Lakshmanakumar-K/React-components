@@ -1,0 +1,12 @@
+.people_parent {
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+.people_image {
+    border-radius: 50%;
+    width: 50%;
+}

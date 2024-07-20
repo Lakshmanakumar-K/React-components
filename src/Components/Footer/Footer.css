@@ -1,0 +1,30 @@
+.footer_flex {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 30px;
+    justify-content: space-between;
+}
+
+.footer_link {
+    margin: 0px 30px;
+}
+
+.footer_dot {
+    color: blue;
+    display: inline;
+}
+
+.footer_anchor {
+    color: blue;
+}
+
+.footer_icon {
+    display: inline;
+}
+
+.footer_button {
+    border: none;
+    cursor: pointer;
+    margin: 20px;
+    color: blue;
+}
